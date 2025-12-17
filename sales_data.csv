@@ -1,0 +1,21 @@
+﻿OrderID,Date,Product,Category,Region,Quantity,UnitPrice,SalesRep
+1001,1/5/2024,Laptop,Electronics,North,2,899.99,Alice
+1002,1/8/2024,Desk Chair,Furniture,South,5,149.99,Bob
+1003,1/12/2024,Monitor,Electronics,North,3,299.99,Alice
+1004,1/15/2024,Notebook,Supplies,East,50,4.99,Carol
+1005,1/18/2024,Laptop,Electronics,West,1,899.99,David
+1006,2/2/2024,Printer,Electronics,South,2,199.99,Bob
+1007,2/10/2024,Desk,Furniture,North,3,349.99,Alice
+1008,2/14/2024,Pen Set,Supplies,East,100,2.99,Carol
+1009,2/20/2024,Monitor,Electronics,West,4,299.99,David
+1010,3/1/2024,Laptop,Electronics,North,3,899.99,Alice
+1011,3/5/2024,Desk Chair,Furniture,South,8,149.99,Bob
+1012,3/12/2024,Keyboard,Electronics,East,15,49.99,Carol
+1013,3/18/2024,Desk,Furniture,West,2,349.99,David
+1014,3/25/2024,Notebook,Supplies,North,75,4.99,Alice
+1015,4/2/2024,Printer,Electronics,South,4,199.99,Bob
+1016,4/10/2024,Laptop,Electronics,East,2,899.99,Carol
+1017,4/15/2024,Monitor,Electronics,North,5,299.99,Alice
+1018,4/22/2024,Pen Set,Supplies,West,80,2.99,David
+1019,5/1/2024,Desk Chair,Furniture,South,6,149.99,Bob
+1020,5/10/2024,Keyboard,Electronics,North,20,49.99,Alice
